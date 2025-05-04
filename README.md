@@ -21,15 +21,12 @@ A responsive weather application built with React.js, TypeScript, Redux, and Tai
 
 | Dark Mode | Light Mode |
 |-----------|------------|
-| ![Image](https://github.com/user-attachments/assets/92455287-3dfe-4c46-8f0c-254c83947f1c) | ![Light Mode](./public/screenshot-light.png) |
+| ![Image](https://github.com/user-attachments/assets/92455287-3dfe-4c46-8f0c-254c83947f1c) | ![Image](https://github.com/user-attachments/assets/2ca0e006-d429-4221-bd7e-6b936a566326) |
 
 ### Search History Management
 - View recently searched cities
 - Remove individual items or clear all history
 - Click to quickly search again
-
-![Search History](./public/screenshot-history.png)  
-*Manage your search history*
 
 ### Error Handling
 - Clear error messages for invalid searches
