@@ -21,7 +21,7 @@ A responsive weather application built with React.js, TypeScript, Redux, and Tai
 
 | Dark Mode | Light Mode |
 |-----------|------------|
-| ![Dark Mode](./public/screenshot-dark.png) | ![Light Mode](./public/screenshot-light.png) |
+| ![Image](https://github.com/user-attachments/assets/92455287-3dfe-4c46-8f0c-254c83947f1c) | ![Light Mode](./public/screenshot-light.png) |
 
 ### Search History Management
 - View recently searched cities
