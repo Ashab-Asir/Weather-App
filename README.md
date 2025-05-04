@@ -10,7 +10,7 @@ A responsive weather application built with React.js, TypeScript, Redux, and Tai
 - Visual weather icons for different conditions
 - Responsive design that works on all devices
 
-![Image](https://github.com/user-attachments/assets/a9abdd33-77e3-4a72-8dc8-1565b8fd1921)
+![Image](https://github.com/user-attachments/assets/42c1b7a7-4eae-4309-a883-c1ab152396a2)
 
 ### City Search
 - Search for weather by city name
@@ -28,12 +28,13 @@ A responsive weather application built with React.js, TypeScript, Redux, and Tai
 - Remove individual items or clear all history
 - Click to quickly search again
 
+![Image](https://github.com/user-attachments/assets/5f40f47b-aee4-47d5-8dd1-cd416b3d75cf)
+
 ### Error Handling
 - Clear error messages for invalid searches
 - User-friendly feedback
 
-![Error Handling](./public/screenshot-error.png)  
-*Error handling example*
+![Image](https://github.com/user-attachments/assets/995c873a-32bf-4ba2-9e8b-12df67f38753)
 
 ## Technologies Used 
 
@@ -45,8 +46,3 @@ A responsive weather application built with React.js, TypeScript, Redux, and Tai
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 </p>
 
-## Installation 🛠️
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/weather-app.git
