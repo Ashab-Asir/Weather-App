@@ -10,15 +10,11 @@ A responsive weather application built with React.js, TypeScript, Redux, and Tai
 - Visual weather icons for different conditions
 - Responsive design that works on all devices
 
-![Weather Display](./public/screenshot-weather.png)  
-*Detailed weather display*
+![Image](https://github.com/user-attachments/assets/a9abdd33-77e3-4a72-8dc8-1565b8fd1921)
 
 ### City Search
 - Search for weather by city name
 - Recent search history with local storage persistence
-
-![Search Functionality](./public/screenshot-search.png)  
-*Search functionality with history*
 
 ### Dark/Light Mode
 - Toggle between dark and light themes
